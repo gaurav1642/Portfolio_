@@ -1,0 +1,214 @@
+{
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "HireHub",
+      "description": "Developed an AI-powered student job portal using React.js and FastAPI, integrating external APIs to provide real-time job listings. Implemented an AI chatbot for job search assistance and career guidance, and designed a skill-based job recommendation and filtering system.",
+      "features": [
+        "Developed an AI-powered student job portal using React.js and FastAPI",
+        "Integrating external APIs (Adzuna, Remotive, Muse) to provide real-time job listings",
+        "Implemented an AI chatbot for job search assistance and career guidance",
+        "Designed a skill-based job recommendation and filtering system to reduce information overload"
+      ],
+      "techStack": [
+        "React.js",
+        "FastAPI",
+        "Adzuna API",
+        "Remotive API",
+        "Muse API",
+        "Tailwind CSS",
+        "MongoDB"
+      ],
+      "category": "AI/ML",
+      "liveUrl": "#",
+      "githubUrl": "https://github.com/gaurav1642/hireHub",
+      "iconType": "cpu"
+    },
+    {
+      "id": "proj-2",
+      "title": "Prompt2art",
+      "description": "Built a full-stack AI text-to-image generator using the MERN stack, integrating the Clipdrop API to generate high-quality images from user prompts. Implemented secure Razorpay payments and REST APIs with Node.js & Express.",
+      "features": [
+        "Built full-stack AI text-to-image generator using MERN stack",
+        "Integrating Clipdrop API to generate high-quality images from user prompts",
+        "Implemented secure Razorpay payments and REST APIs with Node.js & Express",
+        "MongoDB handling user data, prompts, images, and transaction records"
+      ],
+      "techStack": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js",
+        "Tailwind CSS",
+        "Clipdrop API",
+        "Razorpay SDK"
+      ],
+      "category": "AI/ML",
+      "liveUrl": "#",
+      "githubUrl": "https://github.com/gaurav1642/prompt2art",
+      "iconType": "image"
+    },
+    {
+      "id": "proj-3",
+      "title": "Poke Vision",
+      "description": "Built a responsive React web app that integrates with the PokéAPI to display detailed Pokémon data including types, abilities, stats, and images. Implemented real-time search functionality with dynamic rendering using React hooks.",
+      "features": [
+        "Built a responsive React web app integrating with PokéAPI",
+        "Display detailed Pokémon data including types, abilities, stats, and images",
+        "Implemented real-time search functionality with dynamic rendering using React hooks",
+        "Applied modular code structure and responsive CSS design"
+      ],
+      "techStack": [
+        "React.js",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "PokéAPI"
+      ],
+      "category": "Web Dev",
+      "liveUrl": "#",
+      "githubUrl": "https://github.com/gaurav1642/poke-vision",
+      "iconType": "globe"
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp-1",
+      "role": "Freelance Web Designer",
+      "organization": "Growbyte, Czech Republic (Remote)",
+      "duration": "Jan 2025 - May 2025",
+      "highlights": [
+        "Delivered high-impact website redesigns through detailed client requirement analysis and competitor research.",
+        "Used AI-powered tools to streamline prototyping and accelerate delivery time.",
+        "Improved customer satisfaction by 25% via user-centric UI/UX strategies.",
+        "Collaborated directly with international clients, ensuring high-quality project execution."
+      ],
+      "type": "experience",
+      "badge": "Remote"
+    },
+    {
+      "id": "exp-2",
+      "role": "B.Tech Computer Science Candidate",
+      "organization": "J.B. Institute of Technology",
+      "duration": "2022 - 2026",
+      "highlights": [
+        "Studying core areas: ML modeling, database management systems, and data structures.",
+        "Completed various technical tracks on algorithm design and full-stack engineering."
+      ],
+      "type": "milestone",
+      "badge": "Dehradun"
+    },
+    {
+      "id": "exp-3",
+      "role": "PCM Graduate",
+      "organization": "Spring Bells School",
+      "duration": "2020 - 2022",
+      "highlights": [
+        "Completed secondary pre-university board training with exceptional focus on Physics, Chemistry, and Mathematics.",
+        "Obtained pre-university certification with strong metrics in quantitative sciences."
+      ],
+      "type": "milestone",
+      "badge": "Pre-University"
+    }
+  ],
+  "skills": [
+    {
+      "id": "sk-1",
+      "name": "React.js & Next.js",
+      "category": "Core Tech",
+      "proficiency": 92
+    },
+    {
+      "id": "sk-2",
+      "name": "Node.js & Express.js",
+      "category": "Core Tech",
+      "proficiency": 88
+    },
+    {
+      "id": "sk-3",
+      "name": "Tailwind CSS & Modern UX",
+      "category": "Core Tech",
+      "proficiency": 95
+    },
+    {
+      "id": "sk-4",
+      "name": "Python & C/C++",
+      "category": "Languages & Data",
+      "proficiency": 90
+    },
+    {
+      "id": "sk-5",
+      "name": "SQL & Relational Databases",
+      "category": "Languages & Data",
+      "proficiency": 88
+    },
+    {
+      "id": "sk-6",
+      "name": "JavaScript & TypeScript",
+      "category": "Languages & Data",
+      "proficiency": 94
+    },
+    {
+      "id": "sk-7",
+      "name": "Data Science (Pandas, Numpy, Seaborn)",
+      "category": "Languages & Data",
+      "proficiency": 85
+    },
+    {
+      "id": "sk-8",
+      "name": "Git & GitHub",
+      "category": "AI/ML & Tools",
+      "proficiency": 90
+    },
+    {
+      "id": "sk-9",
+      "name": "Cursor & GenAI Workflows",
+      "category": "AI/ML & Tools",
+      "proficiency": 95
+    },
+    {
+      "id": "sk-10",
+      "name": "Jupyter Notebook & Data Labs",
+      "category": "AI/ML & Tools",
+      "proficiency": 86
+    },
+    {
+      "id": "sk-11",
+      "name": "Postman, Netlify & Render Deployments",
+      "category": "AI/ML & Tools",
+      "proficiency": 88
+    }
+  ],
+  "messages": [],
+  "education": [
+    {
+      "id": "edu-1",
+      "institution": "J.B. Institute of Technology",
+      "degree": "Bachelor of Technology – Computer Science",
+      "duration": "2022 - 2026",
+      "concentration": "B.Tech Graduation in Dehradun. Key focus areas: ML modeling, database systems, data structures, and software engineering design.",
+      "badge": "Dehradun"
+    },
+    {
+      "id": "edu-2",
+      "institution": "Spring Bells School",
+      "degree": "PCM (Physics, Chemistry, Mathematics)",
+      "duration": "2020 - 2022",
+      "concentration": "Secondary board pre-university training with high metrics in quantitative sciences.",
+      "badge": "Saharanpur"
+    }
+  ],
+  "profileBio": {
+    "id": "bio-1",
+    "title": "B.Tech Student & Software Engineer",
+    "subtitle": "Computer Science Graduate & Full-Stack Developer",
+    "bioParagraph1": "I am a final-year B.Tech Student in Computer Science and Engineering who is highly motivated to solve complex actual problems using software development and data science. Interfacing between high-quality frontend views, secure backend route controllers, and clean databases, I build robust, full-stack pipelines that deliver measurable user value.",
+    "bioParagraph2": "My development interests span across clean interface styles, REST APIs with Node.js & Express, and data analysis using Python tools. I emphasize writing robust algorithms, maintaining clean directory architectures, and constructing reliable system integrations that deliver polished business products.",
+    "academicPillar1Title": "Full-Stack Web Dev",
+    "academicPillar1Desc": "Developing MERN solutions, React frontends, and Express API endpoints.",
+    "academicPillar2Title": "Database Management (DBMS)",
+    "academicPillar2Desc": "Enterprise query structuring, relational SQL databases, and JSON collection indexing.",
+    "academicPillar3Title": "Data Structures & Algorithms",
+    "academicPillar3Desc": "Optimizing runtime computation speeds, arrays, trees, and logic solvers."
+  }
+}
